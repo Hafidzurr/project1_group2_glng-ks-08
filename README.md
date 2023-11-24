@@ -16,16 +16,17 @@
 * Golang.
 * Postgres SQL.
 ## Installation
+#### 1. Open terminal or command prompt
 ```
 git clone https://github.com/Hafidzurr/project1_group2_glng-ks-08.git
 cd project1_group2_glng-ks-08
 go mod tidy
 ```
-## Database 
-```
-Create database in postgres SQL with name "todo" or you can change whats name you like, but coution here you must change main.go too.
-```
-## Run
+#### 2. Setting Database 
+
+Create database in postgres SQL with name `todo` or you can change whats name you like, but coution here you must change `main.go` too.
+
+#### 3. Run 
 ```
 swag init
 go run main.go
