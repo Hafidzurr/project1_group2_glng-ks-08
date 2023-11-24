@@ -7,7 +7,7 @@ import (
 	"github.com/Hafidzurr/project1_group2_glng-ks-08/database"
 	_ "github.com/Hafidzurr/project1_group2_glng-ks-08/docs" // Import the generated docs
 	"github.com/Hafidzurr/project1_group2_glng-ks-08/router"
-	"github.com/swaggo/http-swagger"
+	httpSwagger "github.com/swaggo/http-swagger"
 )
 
 func main() {
