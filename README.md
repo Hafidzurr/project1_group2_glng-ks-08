@@ -10,7 +10,7 @@
 #### http://localhost:8080/swagger/index.html#/
 ##
 ## Postman Documentation
-#### https://www.instagram.com/
+#### https://documenter.getpostman.com/view/24258835/2s9YeD7CPa
 ##
 ## Sytem Requirement
 * Golang.
